@@ -126,6 +126,8 @@
 | `scaleXEnabled`          | `bool`                                                                                                                                                          |         |      |
 | `scaleYEnabled`          | `bool`                                                                                                                                                          |         |      |
 | `dragEnabled`            | `bool`                                                                                                                                                          |         |      |
+| `dragXEnabled`           | `bool`                                                                                                                                                          |         |      |
+| `dragYEnabled`           | `bool`                                                                                                                                                          |         |      |
 | `pinchZoom`              | `bool`                                                                                                                                                          |         |      |
 | `doubleTapToZoomEnabled` | `bool`                                                                                                                                                          |         |      |
 | `yAksis`                 | `{ left: YAksis, right: YAksis }`                                                                                                                               |         |      |
